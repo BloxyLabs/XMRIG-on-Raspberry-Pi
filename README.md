@@ -25,3 +25,9 @@ cd
 <p>./xmrig -o RANDOMXPOOLSERVER:PORT -u COIN:WALLETADDRESS.RIGNAME#REFERALCODE -p x</p>
 <p>Example from video</p>
 <p>./xmrig -o rx-eu.unmineable.com:3333 -u XNO:WALLETADDRESS.PI5#Bloxy-Labs -p x</p>
+
+Other pool servers:
+Global: rx.unmineable.com:3333
+Europe: rx-eu.unmineable.com:3333
+United States: rx-us.unmineable.com:3333
+Asia: rx-asia.unmineable.com
