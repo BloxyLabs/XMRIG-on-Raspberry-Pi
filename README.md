@@ -10,6 +10,7 @@ If you had fun with the projects, please consider buying us a [cup of coffee](ht
 ```
 sudo apt update
 sudo apt full-upgrade -y
+sudo apt-get install screen
 sudo apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev -y
 git clone https://github.com/xmrig/xmrig.git
 cd xmrig
@@ -18,6 +19,7 @@ cd build
 cmake ..
 make
 cd
+screen
 ```
 <br>
 <h3><u>The commandline to start mining on Unmineable</u></h3>
