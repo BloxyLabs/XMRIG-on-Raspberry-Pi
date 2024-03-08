@@ -26,8 +26,8 @@ cd
 <p>Example from video</p>
 <p>./xmrig -o rx-eu.unmineable.com:3333 -u XNO:WALLETADDRESS.PI5#Bloxy-Labs -p x</p>
 
-Other pool servers:
-Global: rx.unmineable.com:3333
-Europe: rx-eu.unmineable.com:3333
-United States: rx-us.unmineable.com:3333
-Asia: rx-asia.unmineable.com
+<p>Other pool servers:</p>
+<p>Global: rx.unmineable.com:3333</p>
+<p>Europe: rx-eu.unmineable.com:3333</p>
+<p>United States: rx-us.unmineable.com:3333</p>
+<p>Asia: rx-asia.unmineable.com</p>
