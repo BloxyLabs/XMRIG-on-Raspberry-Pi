@@ -30,4 +30,4 @@ cd
 <p>Global: rx.unmineable.com:3333</p>
 <p>Europe: rx-eu.unmineable.com:3333</p>
 <p>United States: rx-us.unmineable.com:3333</p>
-<p>Asia: rx-asia.unmineable.com</p>
+<p>Asia: rx-asia.unmineable.com:3333</p>
