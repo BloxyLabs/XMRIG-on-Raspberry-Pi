@@ -22,6 +22,6 @@ cd
 <br>
 <h3><u>The commandline to start mining on Unmineanle</u></h3>
 
-./xmrig -o rx-eu.unmineable.com:3333 -u <COIN>:<Wallet Address>.<RIG Name>#<Referal Code> -p x
-Example from video
-./xmrig -o rx-eu.unmineable.com:3333 -u XNO:<Wallet Address>.PI5#Bloxy-Labs -p x
+<p>./xmrig -o rx-eu.unmineable.com:3333 -u <COIN>:<Wallet Address>.<RIG Name>#<Referal Code> -p x</p>
+<p>Example from video</p>
+<p>./xmrig -o rx-eu.unmineable.com:3333 -u XNO:<Wallet Address>.PI5#Bloxy-Labs -p x</p>
