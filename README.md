@@ -6,6 +6,11 @@ Check also our YouTube channel for instructions and other related information [Y
 If you had fun with the projects, please consider buying us a [cup of coffee](https://www.buymeacoffee.com/bloxylabs "cupofcoffee") :coffee:.
 
 <h3><u>The commands to install XMRIG</u></h3>
+```python
+print("Hello, world!")
+
+
+
 <p>
 ```
 sudo apt update
