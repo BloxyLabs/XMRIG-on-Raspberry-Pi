@@ -20,7 +20,7 @@ make
 cd
 ```
 <br>
-<h3><u>The commandline to start mining on Unmineanle</u></h3>
+<h3><u>The commandline to start mining on Unmineable</u></h3>
 
 <p>./xmrig -o RANDOMXPOOLSERVER:PORT -u COIN:WALLETADDRESS.RIGNAME#REFERALCODE -p x</p>
 <p>Example from video</p>
