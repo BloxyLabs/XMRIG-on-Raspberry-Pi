@@ -18,13 +18,13 @@ mkdir build
 cd build
 cmake ..
 make
-cd
+
 screen
 ```
 <br>
 <h3><u>The commandline to start mining on Unmineable</u></h3>
 
-<p>./xmrig -o RANDOMXPOOLSERVER:PORT -u COIN:WALLETADDRESS.RIGNAME#REFERALCODE -p x</p>
+<p>./xmrig -o RANDOMXPOOLSERVER:PORT -u COIN:WALLETADDRESS.RIGNAME#REFERRALCODE -p x</p>
 <p>Example from video</p>
 <p>./xmrig -o rx-eu.unmineable.com:3333 -u XNO:WALLETADDRESS.PI5#Bloxy-Labs -p x</p>
 
@@ -33,3 +33,9 @@ screen
 <p>Europe: rx-eu.unmineable.com:3333</p>
 <p>United States: rx-us.unmineable.com:3333</p>
 <p>Asia: rx-asia.unmineable.com:3333</p>
+
+<h3><u>screen commands</u></h3>
+<p>screen => to start new screen session</p>
+<p>ctrl-a and d => to leave screen session and keep it running</p>
+<p>screen -r => to reconnect to the screen session</p>
+
