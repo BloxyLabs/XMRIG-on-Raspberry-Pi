@@ -38,7 +38,7 @@ screen
 <p>United States: rx-us.unmineable.com:3333</p>
 <p>Asia: rx-asia.unmineable.com:3333</p>
 
-<h3><u>sReferral code</u></h3>
+<h3><u>Referral code</u></h3>
 To get a small discount on the UnMineable mining fees use the referral code:
 
 **Bloxy-Labs**
