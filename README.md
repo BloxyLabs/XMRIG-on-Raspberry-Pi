@@ -1,5 +1,5 @@
 # Installing XMRIG on your Raspberry Pi
-**and mine on Unmineable**
+
 <br>
 <br>
 Check also our YouTube channel for instructions and other related information [YouTube](https://www.youtube.com/@bloxylabs "YouTube").
@@ -43,6 +43,15 @@ To get a small discount on the UnMineable mining fees use the referral code:
 
 **Bloxy-Labs**
 It will reduce your mining fee from 1% to 0.75% and you will also support our YT channel ;)
+
+<h3><u>The commandline to start mining Zephyr on MiningOcean</u></h3>
+
+<p>./xmrig -o POOLSERVER:PORT -u WALLETADDRESS -p x</p>
+
+**Example from video:**
+
+<p>./xmrig -o de-zephyr.miningocean.org:5332 -u WALLETADDRESS -p x</p>
+
 
 <h3><u>screen commands</u></h3>
 <p>screen => to start new screen session</p>
