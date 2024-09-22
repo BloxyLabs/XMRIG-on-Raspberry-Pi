@@ -52,6 +52,10 @@ It will reduce your mining fee from 1% to 0.75% and you will also support our YT
 
 <p>./xmrig -o de-zephyr.miningocean.org:5332 -u WALLETADDRESS -p x</p>
 
+<h3><u>The commandline to start mining Salvium on HeroMiners</u></h3>
+
+<p>./xmrig -o POOLSERVER:PORT -u YOUR_SAL_WALLET_ADDRESS -p YOUR_WORKER_NAME -a rx/0 -k</p>
+
 **Example from Salvium video:**
 
 <p>./xmrig -o de.salvium.herominers.com:1230 -u YOUR_SAL_WALLET_ADDRESS -p YOUR_WORKER_NAME -a rx/0 -k</p>
