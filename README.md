@@ -27,7 +27,7 @@ screen
 
 <p>./xmrig -o RANDOMXPOOLSERVER:PORT -u COIN:WALLETADDRESS.WORKERNAME#REFERRALCODE -p x</p>
 
-**Example from video:**
+**Example from Unmineable video:**
 
 <p>./xmrig -o rx-eu.unmineable.com:3333 -u XNO:WALLETADDRESS.PI5#Bloxy-Labs -p x</p>
 
@@ -48,13 +48,18 @@ It will reduce your mining fee from 1% to 0.75% and you will also support our YT
 
 <p>./xmrig -o POOLSERVER:PORT -u WALLETADDRESS -p x</p>
 
-**Example from video:**
+**Example from Zephyr video:**
 
 <p>./xmrig -o de-zephyr.miningocean.org:5332 -u WALLETADDRESS -p x</p>
 
+**Example from Salvium video:**
+
+<p>./xmrig -o de.salvium.herominers.com:1230 -u YOUR_SAL_WALLET_ADDRESS -p YOUR_WORKER_NAME -a rx/0 -k</p>
 
 <h3><u>screen commands</u></h3>
 <p>screen => to start new screen session</p>
 <p>ctrl-a and d => to leave screen session and keep it running</p>
 <p>screen -r => to reconnect to the screen session</p>
+
+
 
