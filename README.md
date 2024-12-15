@@ -1,4 +1,4 @@
-# Installing XMRIG on your Raspberry Pi
+# Installing XMRIG on your Pi
 
 <br>
 <br>
@@ -60,10 +60,13 @@ It will reduce your mining fee from 1% to 0.75% and you will also support our YT
 
 <p>./xmrig -o de.salvium.herominers.com:1230 -u YOUR_SAL_WALLET_ADDRESS -p YOUR_WORKER_NAME -a rx/0 -k</p>
 
+**Example from Etica Protocol video:**
+
+<p>./xmrig -o eticapool.com:3333 -u YOUR_ETICA_WALLET_ADDRESS -p YOUR_WORKER_NAME -a rx/0 -k</p>
+
 <h3><u>screen commands</u></h3>
 <p>screen => to start new screen session</p>
 <p>ctrl-a and d => to leave screen session and keep it running</p>
 <p>screen -r => to reconnect to the screen session</p>
-
 
 
