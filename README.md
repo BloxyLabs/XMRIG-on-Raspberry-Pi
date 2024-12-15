@@ -1,10 +1,9 @@
 # Installing XMRig on your Pi
 
-<br>
-<br>
+
 Check also our [YouTube](https://www.youtube.com/@bloxylabs "YouTube") channel for instructions and other related information.
 If you had fun with the projects, please consider buying us a [cup of coffee](https://www.buymeacoffee.com/bloxylabs "cupofcoffee") ☕.
-<br>
+
 <h3><u>The commands to install XMRIG</u></h3>
 
 ```
