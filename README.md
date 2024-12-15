@@ -1,4 +1,4 @@
-# Installing XMRIG on your Pi
+# Installing XMRig on your Pi
 
 <br>
 <br>
