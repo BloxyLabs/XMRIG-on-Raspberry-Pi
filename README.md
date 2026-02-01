@@ -63,6 +63,16 @@ It will reduce your mining fee from 1% to 0.75% and you will also support our YT
 
 <p>./xmrig -o eticapool.com:3333 -u YOUR_ETICA_WALLET_ADDRESS -p YOUR_WORKER_NAME -a rx/0 -k</p>
 
+<h3><u>The commandline to start mining on HashVault</u></h3>
+
+**Rapberry Pi 5:**
+<br>
+./xmrig --url pool.hashvault.pro:443 --user YOURWALLETADDRESS --pass RPI --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14 --randomx-no-numa
+
+**Orange Pi 5:**
+<br>
+./xmrig --url pool.hashvault.pro:443 --user YOURWALLETADDRESS --pass RPI --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
+
 <h3><u>screen commands</u></h3>
 <p>screen => to start new screen session</p>
 <p>ctrl-a and d => to leave screen session and keep it running</p>
